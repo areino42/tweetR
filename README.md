@@ -1,0 +1,4 @@
+# tweetR
+Minería de textos aplicada en lenguaje de programación R
+
+Un gran número de información en texto digital es generada cada día. A diario miles de textos y mensajes circulan por las redes sociales, tratando diversos tópicos o temas de interés. Twitter es una de las redes sociales más grandes en la actualidad, políticos, empresas, organizaciones, celebridades, gobiernos la usan para compartir sus ideologías, intereses y opiniones, al público en general, recibiendo una retroalimentación del mismo. La minería de textos es el conjunto de herramientas que nos permiten llevar a cabo el análisis de datos no estructurados, en este caso, texto abierto o libre como los tweets. En el desarrollo de esta tesis, abordaremos las principales herramientas de la minería de textos en lenguaje de programación R, que nos ayudan en la extracción, limpieza, estructuramiento y análisis de texto.
